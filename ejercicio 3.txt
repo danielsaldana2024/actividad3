@@ -1,0 +1,63 @@
+Sujeto elegido: (Mascota) Gato
+
+Enunciados simples VERDADERO
+
+Mi gato es un animal doméstico
+Se afila las uñas rascando superficies todos los días.
+Mi gato se lame su pelaje todos los días.
+Le gusta dormir por las mañanas.
+Tiene un oído muy sensible.
+Usa su arenero cada vez que lo necesita.
+Come concentrado para gato durante el día.
+
+Enunciados simples FALSO
+
+Mi gato es un animal acuático.
+Le gusta comer hojas de los árboles.
+No tiene sentido del olfato.
+No le gusta dormir.
+Se come la tela de los sillones.
+Salta como un conejo.
+Come zanahoria y coliflor.
+
+PROPOSICIONES LOGICAS
+
+1. Mi gato no sabe conducir un vehículo.
+Proposición usada: Negación
+Valor resultante: Verdadero
+
+2. Me gato come concentrado y bebe agua pura.
+Proposición usada: Conjunción
+Valor resultante: Verdadero
+
+3. Mi gato consume alimento sólido o alimento húmedo.
+Proposición usada: Disyunción
+Valor resultante: Verdadero
+
+4. Mi gato puede no ver en la oscuridad.
+Proposición usada: Negación
+Valor resultante: Falso
+
+5. Mi gato juega de noche y duerme de día.
+Proposición usada: Conjunción
+Valor resultante: Verdadero
+
+6. Mi gato bebe refrescos o bebe café.
+Proposición usada: Disyunción
+Valor resultante: Falso
+
+7. Mi gato no caza lagartijas.
+Proposición usada: Negación
+Valor resultante: Falso
+
+8. Mi gato no tiene nombre.
+Proposición usada: Negación
+Valor resultante: Falso
+
+9. Mi gato no le gusta dormir.
+Proposición usada: Negación
+Valor resultante: Falso
+
+10. Mi gato sale a pasear y regresa a tomar agua
+Proposición usada: Conjunción
+Valor resultante: Verdadero
